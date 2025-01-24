@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ratih.herwin@gmail.com
+X-WR-TIMEZONE:Asia/Jakarta
+BEGIN:VEVENT
+DTSTART:20221016T050000Z
+DTEND:20221016T060000Z
+DTSTAMP:20221005T044657Z
+UID:77thlbj67mub417k1dihfksj6t@google.com
+CREATED:20221005T041450Z
+DESCRIPTION:<b>Bismillahirrahmanirrahim</b><br>Kami mengundang Bapak/Ibu/Sa
+ udara/i untuk hadir di acara pernikahan kami. InsyaAllah akan diadakan di<b
+ r><br>Akad Nikah : Batakan Beach\, 16 Oktober 2022<br>Selengkapnya :&nbsp\;
+ <a href="https://s.id/1jRAw"><u>https://s.id/1jRAw</u></a><br><br>Regards\,
+ <br><u>Ratih dan Herwin</u>
+LAST-MODIFIED:20221005T041450Z
+LOCATION:Batakan Beach\, Manggar\, Kec. Balikpapan Tim.\, Kota Balikpapan\,
+  Kalimantan Timur\, Indonesia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Akad Nikah Ratih dan Herwin
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
